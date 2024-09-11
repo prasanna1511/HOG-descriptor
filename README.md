@@ -20,3 +20,8 @@
 
     $\theta_{ij} = tan^{-1}(\frac{Gy_{ij}}{Gx_{ij}})$
 
+4.  **Histogram Bin**
+
+      Bin of interval 20 
+      Sum all the magnitude, angle fall in the same bin
+
